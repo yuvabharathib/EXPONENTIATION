@@ -17,8 +17,8 @@ Program to find the exponentiation of a number.
 Developed by: 
 RegisterNumber: 
 */
-
 ```
+
 ## Output:
 ![exponentiation of a number](expo.png)
 
