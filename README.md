@@ -9,7 +9,7 @@ To write a program to find the exponentiation of a number.
 
 ## Algorithm
 1. Get the input from the user.
-2. Use exponentiation operator to find the 
+2. Use exponentiation operator to find the exponentiation of a number.
 
 ## Program:
 ```
