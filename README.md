@@ -12,7 +12,8 @@ To write a program to find the exponentiation of a number.
 2. Use exponentiation operator to find the 
 
 ## Program:
-```/*
+```
+/*
 Program to find the exponentiation of a number.
 Developed by: 
 RegisterNumber: 
